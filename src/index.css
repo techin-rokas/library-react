@@ -1,0 +1,57 @@
+@import "tailwindcss";
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.error {
+  @apply text-red-500;
+}
+
+.active {
+  @apply bg-amber-800 text-white;
+}
+
+.button {
+  @apply w-full py-2 px-4 rounded-lg text-white font-medium cursor-pointer 
+         transition-all duration-200 
+         hover:scale-[1.03] 
+         active:scale-95;
+}
+
+.button-blue {
+  @apply bg-blue-600 hover:bg-blue-700;
+}
+
+.button-emerald {
+  @apply bg-emerald-600 hover:bg-emerald-700;
+}
+
+.button-red {
+  @apply bg-red-600 hover:bg-red-700;
+}
+
+.nav-button {
+  @apply px-4 py-2 rounded-md font-medium transition-all duration-200 
+         cursor-pointer;
+}
+
+.nav-button-default {
+  @apply bg-emerald-500 text-white hover:bg-emerald-600;
+}
+
+.nav-button-active {
+  @apply bg-white text-emerald-500;
+}

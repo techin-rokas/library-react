@@ -1,0 +1,184 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Self-Improvement",
+      "price": 18.99,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "2",
+      "title": "1984",
+      "author": "George Orwell",
+      "category": "Dystopian",
+      "price": 12.3,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "3",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy",
+      "price": 15,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780547928227-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "4",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Programming",
+      "price": 28.99,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "5",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "category": "History",
+      "price": 21.4,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780062316110-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "6",
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "category": "Programming",
+      "price": 32,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780135957059-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "7",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "category": "Science Fiction",
+      "price": 17.8,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780441013593-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "8",
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "category": "Psychology",
+      "price": 19.9,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780374533557-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "9",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Fiction",
+      "price": 11.99,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780062315007-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "10",
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "category": "Productivity",
+      "price": 16.75,
+      "cover": "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "11",
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "category": "Business",
+      "price": 20.5,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780307887894-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "12",
+      "title": "Start With Why",
+      "author": "Simon Sinek",
+      "category": "Business",
+      "price": 18.2,
+      "cover": "https://covers.openlibrary.org/b/isbn/9781591846444-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "13",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "category": "Fantasy",
+      "price": 14.3,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780590353427-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "14",
+      "title": "The Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "category": "Fantasy",
+      "price": 19.4,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780756404741-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "15",
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "category": "Finance",
+      "price": 13.9,
+      "cover": "https://covers.openlibrary.org/b/isbn/9781612680194-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "16",
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "category": "Finance",
+      "price": 17.6,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780857197689-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "17",
+      "title": "Zero to One",
+      "author": "Peter Thiel",
+      "category": "Business",
+      "price": 16.8,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780804139298-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "18",
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "category": "Philosophy",
+      "price": 10.5,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780140449334-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "19",
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "category": "Psychology",
+      "price": 14.2,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780807014295-L.jpg",
+      "reserved": false
+    },
+    {
+      "id": "20",
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "category": "Self-Improvement",
+      "price": 18.1,
+      "cover": "https://covers.openlibrary.org/b/isbn/9780062457714-L.jpg",
+      "reserved": false
+    }
+  ]
+}
