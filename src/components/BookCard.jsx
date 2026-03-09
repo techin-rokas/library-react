@@ -49,9 +49,7 @@ function BookCard({ book, toggleReserve }) {
 
       <div className="p-4 flex flex-col grow">
         <div>
-          <h3 className="font-semibold text-lg line-clamp-2 min-h-14">
-            {book.title}
-          </h3>
+          <h3 className="font-semibold text-lg">{book.title}</h3>
 
           <p className="text-gray-600 text-sm">{book.author}</p>
           <p className="text-gray-500 text-sm">{book.category}</p>
