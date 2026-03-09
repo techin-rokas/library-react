@@ -1,0 +1,28 @@
+projekto kurimas Vite+React+Tailwind
+
+1.  (https://vite.dev/guide/)
+npm create vite@latest 
+	Project name: . (kuriame esamam foldery)
+	Select a framework: React
+	Select Variant: JavaScript + SWC
+	No
+	Yes
+2. npm install tailwindcss @tailwindcss/vite
+i vite.config.js rasom: (https://tailwindcss.com/docs/installation/using-vite)
+
+import tailwindcss from '@tailwindcss/vite'
+
+export default defineConfig({ 
+	plugins: [ 
+	tailwindcss(),
+	],
+})
+
+
+i index.css rasom: 
+
+@import "tailwindcss";
+
+i App.jsx irasom:
+
+import "./App.css";
