@@ -748,3 +748,9 @@ return (
         )}
       </div>
 
+
+komandos:
+
+npm i
+npx json-server data/data.json
+npm run dev
